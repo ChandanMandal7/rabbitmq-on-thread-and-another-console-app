@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fXviA5yZgPKNdt/7b6xeRRJIVBT9v2/xt6TpzoZ/1D4=",
+  "Source": "rabbitmq",
+  "BasePath": "_content/rabbitmq",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

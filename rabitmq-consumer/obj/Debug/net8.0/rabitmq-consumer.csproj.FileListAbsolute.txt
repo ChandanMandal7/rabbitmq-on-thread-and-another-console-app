@@ -1,0 +1,17 @@
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\bin\Debug\net8.0\rabitmq-consumer.exe
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\bin\Debug\net8.0\rabitmq-consumer.deps.json
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\bin\Debug\net8.0\rabitmq-consumer.runtimeconfig.json
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\bin\Debug\net8.0\rabitmq-consumer.dll
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\bin\Debug\net8.0\rabitmq-consumer.pdb
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\obj\Debug\net8.0\rabitmq-consumer.csproj.AssemblyReference.cache
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\obj\Debug\net8.0\rabitmq-consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\obj\Debug\net8.0\rabitmq-consumer.AssemblyInfoInputs.cache
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\obj\Debug\net8.0\rabitmq-consumer.AssemblyInfo.cs
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\obj\Debug\net8.0\rabitmq-consumer.csproj.CoreCompileInputs.cache
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\obj\Debug\net8.0\rabitmq-.8FF5F6FB.Up2Date
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\obj\Debug\net8.0\rabitmq-consumer.dll
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\obj\Debug\net8.0\refint\rabitmq-consumer.dll
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\obj\Debug\net8.0\rabitmq-consumer.pdb
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\obj\Debug\net8.0\rabitmq-consumer.genruntimeconfig.cache
+C:\Users\chandan.mandal\Desktop\rabitmq-consumer\obj\Debug\net8.0\ref\rabitmq-consumer.dll
